@@ -1,0 +1,10 @@
+1. 🔹 Trường hợp đặc biệt
+❗ Chỉ muốn xoá trên remote, giữ local
+git rm --cached ten_file
+git commit -m "remove from repo"
+git push origin main
+
+2. Xoa ca tren remote va local 
+git rm ten_file
+git commit -m "remove from repo"
+git push origin main
